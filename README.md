@@ -1,9 +1,9 @@
 # Step-Down-Dc-Dc
 Visit JLCPCB ( https://jlcpcb.com/RAT ) 
 >
-The article is being published in collaboration with JLCPCB. It is one of the most experienced PCB manufacturers with more than a decade in the 􀀞eld of PCB prototype and fabrication, they are committed to meeting the needs of our customers from di􀀡erent industries in terms of quality, delivery, cost-e􀀡ectiveness and any other demanding requests.
+The article is being published in collaboration with JLCPCB. It is one of the most experienced PCB manufacturers with more than a decade in the 􀀞eld of PCB prototype and fabrication, they are committed to meeting the needs of our customers from different industries in terms of quality, delivery, cost-effectiveness and any other demanding requests.
 # Introduction
-The intention of this circuit is to encourage DIY because we know we can 􀀞nd identical models ready to buy. This circuit is
+The intention of this circuit is to encourage DIY because we know we can find identical models ready to buy. This circuit is
 based on the LM2596S IC. We can energize the circuit with voltages from 4VDC to 40VDC and in its output we can obtain
 from 1.5VDC to 35VDC with current up to 3 amps, controlling the output voltage by potentiometer.
 # To download the GERBER files, access the links:
